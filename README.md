@@ -1,70 +1,54 @@
-# Getting Started with Create React App
+# 10월8일 입사 전 긴 휴가 알차게 사용하기
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
 
-In the project directory, you can run:
+## 세부계획
 
-### `npm start`
+24-09-26 ~ 24-09-30 / 24-10-04 ~ 24-10-07 :
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### `24-09-26 (목) :` 대마도를 가기위한 여권만들기 + 동서울터미널 근처에서 1박 (집->탄천자전거길->동서울터미널)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+1
 
-### `npm test`
+### `24-09-27 (금) :` 동해안 종주 1일차 (대진시외버스터미널 -> 고성 통일전망대 -> 동해시)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+2
 
-### `npm run build`
+### `24-09-28 (토) :` 동해안 종주 2일차 (동해시 -> 영덕해맞이공원 인증센터)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+3
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### `24-09-29 (일) :` 동해안 종주 3일차 (영덕해맞이공원 인증센터 -> 안동댐 인증센터 or 경주,울산시)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+4
+**Note: 안동댐으로 갈 경우, 안동버스터미널에서 복귀 / 포항, 울산으로 갈 경우, 부산버스터미널에서 복귀**
 
-### `npm run eject`
+### `24-09-30 (월) :` 동해안 종주 4일차 (경주,울산 -> 부산버스터미널) - 마지막 날
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+5
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### `24-10-02 (화) :` 여권 기다리면서 '소모임 야볼' 광교 술벙 나가기
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+6
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### `24-10-04 (목) :` 여권 받는대로 부산항으로 출발
 
-## Learn More
+7
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### `24-10-05 (금) :` 부산항 -> 일본 대마도 배 승선
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+8
 
-### Code Splitting
+### `24-10-06 (토) :` 대마도 일정 1일차
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+9
 
-### Analyzing the Bundle Size
+### `24-10-07 (일) :` 대마도 일정 2일차
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+10
 
-### Making a Progressive Web App
+### `24-10-08 (월) :` 예비군 훈련
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+11
 
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### `24-10-09 (월) :` 회사 첫 출근..!

@@ -1,38 +1,68 @@
 #wrap {
-    background-color: rgba(255, 255, 255, 0.9);
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 20px;
+    border: 1px solid #ddd;
     border-radius: 10px;
-    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
-    padding: 40px;
-    max-width: 600px;
-    margin: 20px auto;
-    text-align: center;
+    background-color: #f9f9f9;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
 h1 {
-    font-size: 2.5em;
-    color: #282c34;
-    margin-bottom: 20px;
-}
-  
-p {
-    font-size: 1.2em;
-    color: #555;
-    margin-bottom: 30px;
+    text-align: center;
+    color: #333;
 }
 
-nav li {
-    margin: 15px 0;
+.form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
-nav a {
-    display: inline-block;
-    background-color: #61dafb;
-    color: #282c34;
-    padding: 15px 25px;
+
+.input, .textarea {
+    width: 100%;
+    max-width: 400px;
+    margin-bottom: 20px;
+    padding: 10px;
     border-radius: 5px;
-    font-weight: 600;
-    transition: background-color 0.3s, transform 0.3s;
+    border: 1px solid #ccc;
 }
-nav a:hover {
-    background-color: #21a1f1;
-    transform: scale(1.05);
+
+.submit-btn {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.submit-btn:hover {
+    background-color: #0056b3;
+}
+
+.plans-table {
+    width: 100%;
+    margin-top: 30px;
+    border-collapse: collapse;
+}
+
+.plans-table th, .plans-table td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: left;
+}
+
+.plans-table th {
+    background-color: #007bff;
+    color: white;
+}
+
+.plans-table tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+.plans-table tr:hover {
+    background-color: #ddd;
 }
